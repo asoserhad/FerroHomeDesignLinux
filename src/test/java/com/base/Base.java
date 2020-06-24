@@ -11,7 +11,7 @@ public class Base {
 
 	public static void setUp() {
 
-		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/src/test/resources/drivrs/chromedriver");
+		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/src/test/resources/drivers/chromedriver");
 		
 	//	System.setProperty("webdriver.chrome.driver", "/root/centos/chromedriver");
 
